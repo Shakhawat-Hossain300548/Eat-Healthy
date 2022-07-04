@@ -1,0 +1,46 @@
+body{
+    margin:0;
+
+}
+
+.section-one{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 70%;
+    padding-top: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    line-height: 25px;
+}
+
+.h1-color{
+    color: tomato;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.button-one {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border: 1px solid black;
+    font-weight: 700;
+    margin:;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
